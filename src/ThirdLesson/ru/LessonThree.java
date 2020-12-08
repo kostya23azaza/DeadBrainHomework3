@@ -17,7 +17,7 @@ public class LessonThree {
                     break;
                 } else if (number > random_number) {
                     System.out.println("Загаданное число меньше!");
-                } else if (number < random_number) { //почему пишет что эта строка всегда true??
+                } else if (number < random_number) { //почему пишет что эта строка всегда true?!?
                     System.out.println("Загаданное число больше!");
                 }
                 if (i == 3) {
